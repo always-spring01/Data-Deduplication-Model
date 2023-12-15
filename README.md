@@ -19,3 +19,5 @@ We were able to confirm that, despite effectively reducing the quantity of data 
  Root folder is the top-level for storing basic configuration files. You can access the folders underneath and find information in the specific folder that interests you.
 2. Document : `always-spring01/Data-Deduplication-Model/docs`  
  Document folder gathers various documents to explain this model. Almost all the materials are written in Koraen, and the document types are indicated by their file extensions.
+3. Code : `always-spring01/Data-Deduplication-Model/code`
+ Code folder gathers various codes in this model.
